@@ -12,4 +12,5 @@ markdown_extensions:
   - pymdownx.highlight:
       use_pygments: true
 plugins:
+  - search
   - git-revision-date
