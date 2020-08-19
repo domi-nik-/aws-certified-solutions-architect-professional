@@ -9,9 +9,9 @@ This site is generated and hosted using the following technologies:
 * Material for MkDocs: To add Material styling on top of MkDocs
 * Github Pages: for hosting
 
-Disclaimer: This site is meant for training purposes only. It is built using notes taken during the A Cloud Guru - AWS Certified Solutions Architect Professkional course and other materials. Many of the notes presented on this site are directly from that course.
+Disclaimer: This site is meant for training purposes only. It is built using notes taken during the A Cloud Guru - AWS Certified Solutions Architect Professkional course and other materials. Many of the notes presented on this site are directly from that course. Work is still ongoing...
 
-Idea, texts and inspiration taken from [brandonavant.com](https://brandonavant.com/).
+Idea, some texts and inspiration taken from [brandonavant.com](https://brandonavant.com/).
 
 @brandon Thank you for your good work! 
 
