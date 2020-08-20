@@ -12,7 +12,6 @@ Amazon CloudWatch is a monitoring service for AWS cloud resources and the applic
 * Get oeprational visibility and insights
 * Derive actionable insights from logs
 
-
 ## How it works
 
 * Collect
@@ -22,9 +21,11 @@ Amazon CloudWatch is a monitoring service for AWS cloud resources and the applic
 
 ## Features
 
+### Listing
+
 #### Collect
 
-Collect logs from 
+Collect logs from
 
 * EC2 instances
 * On-premise servers
@@ -54,7 +55,7 @@ Collect logs from
 * RAM
 * Disk
 * Network
- 
+
 Automatic Dashboards
 Set alarms on metrics
 
@@ -122,11 +123,11 @@ CloudWAtch Alarms can send a notification to SNS, from there you can trigger
 
 ## Analyse
 
-#### Log analytics
+### Log analytics
 
 * You can instantly begin writing queries with aggregations, filters and 
 
-#### Contributor Insights
+### Contributor Insights
 
 Analyze time-series data to provide a view of the top contributors influencing system performance.
 
@@ -134,7 +135,6 @@ Analyze time-series data to provide a view of the top contributors influencing s
 * Understand who or what is impacting your system
 * Evaluate patterns in structured log events
 * Add to CloudWatch alarms
-
 
 ## Limits to know
 
