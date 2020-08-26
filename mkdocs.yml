@@ -11,6 +11,7 @@ repo_name: domi-nik-/aws-certified-solutions-architect-professional
 markdown_extensions:
   - pymdownx.highlight:
       use_pygments: true
+  - def_list
 plugins:
   - search
   - git-revision-date
